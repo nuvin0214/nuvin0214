@@ -4,11 +4,11 @@
 </p>
 <hr/>
 
-<p align="center" width="150px">I am a third year Undergraduate at University of Colombo, Sri Lanka.And a passionate self-learner,<br>who is obsessed with Data Science and always looking to find patterns of which are hidden in the data</p>
+<p align="center" width="150px">I am a third year Undergraduate at University of Colombo, Sri Lanka. And a passionate self-learner,<br>who is obsessed with Data Science and always looking to find patterns of which are hidden in the data</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihani-31&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Jihani-31&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Jihani-31&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvin0214&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=nuvin0214&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=nuvin0214&theme=chartreuse-dark"></p>
 
 ### 🛠 &nbsp;Tech Stack
 
